@@ -114,6 +114,6 @@ h1{
 }
 @media (max-width:440px){
     .todo-list{
-    width:450px;
+     max-width:450px;
     }
 }
