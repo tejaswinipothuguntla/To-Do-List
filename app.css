@@ -112,8 +112,4 @@ h1{
 .edit-icon{
     margin-left:10px;
 }
-@media (max-width:440px){
-    .todo-list{
-     max-width:450px;
-    }
-}
+
